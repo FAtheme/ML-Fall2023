@@ -8,3 +8,5 @@ A company wants to develop an image classification model that can automatically 
 
 ## White Paper
 For this project I chose a paper titled “Convolutional Neural Networks for Sentence Classification” by Yoon Kim. It can be found on https://arxiv.org/abs/1408.5882
+In the link below, I have provided code that implements solutions from this paper.
+https://github.com/FAtheme/ML-Fall2023/blob/main/Convolutional_Neural_Networks_for_Sentence_Classification.ipynb

@@ -1,6 +1,10 @@
 # ML-Fall2023
 This repository contains the projects I’ve completed for the Machine Learning course at Kharazmi University.
 
+## Introduction to OpenCV
+* Presentaion: https://www.canva.com/design/DAFzIB1CXH8/5Zl-ZmvIA7ixgbyC3VjyXg/edit?utm_content=DAFzIB1CXH8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* Code: https://github.com/FAtheme/ML-Fall2023/blob/main/Intro_to_OpenCV.ipynb
+
 ## ML Project
 The scenario which I chose for this project is written below:
 ### Image Classification:
